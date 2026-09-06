@@ -25,7 +25,7 @@ MCSManager 面板的第三方鸿蒙（HarmonyOS）手机管理端。在手机上
 2. **电脑端**：
    - 到 [auto-installer 的 GitHub Releases](https://github.com/likuai2010/auto-installer/releases) 下载最新版并解压
 3. **安装包**：
-   - 本项目 Releases 提供两种包：`.hap`（单包）与 `.app`（上架聚合包），侧载选 `.hap` 即可；若工具版本支持直接安装 `.app` 亦可
+   - 本项目 Releases 提供`.hap`（单包）
 
 ### 安装步骤
 
